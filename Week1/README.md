@@ -1,16 +1,4 @@
-# day_1
+# Week 1
+## To-Do List 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Flutter Workshop Day 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1613398043/video_to_markdown/images/youtube--aXXwJEIIKeQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/aXXwJEIIKeQ "Flutter Workshop Day 1")

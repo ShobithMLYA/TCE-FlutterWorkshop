@@ -241,7 +241,7 @@ class _DescriptionState extends State<Description> {
           child: Icon(Icons.add, color: Colors.white),
         ),
         appBar: AppBar(
-          title: Text('Hello World'),
+          title: Text('Flutter Workshop Week 1'),
           leading: Icon(Icons.language),
           actions: [
             Icon(Icons.arrow_forward),
